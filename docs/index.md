@@ -9,8 +9,8 @@ Created during the GenAI Intensive Capstone 2025Q1.
 
 - 📝 [Watt-Seer Household Blog](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-household.html)
 - 🎬 [Project Walkthrough Video](https://youtu.be/Mrld6CWXUtg)
-- 💻 [View Kaggle Notebook](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
-- 🧩 [Watt-Seer Capstone Overview](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-capstone-project.html)
+- 💻 [View Kaggle Notebook (Interactive Code)](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
+- 🧩 [Watt-Seer Capstone - GenAI 2025Q1 (Full Repository)](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-capstone-project.html)
 
 ---
 

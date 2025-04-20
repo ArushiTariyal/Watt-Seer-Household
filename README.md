@@ -46,15 +46,15 @@ Check out our full walkthrough on YouTube! 🎬👇
 Dive deeper into the story behind **Watt-Seer Household** 🏡🔌 and explore the technical ⚙️, creative 🎨, and environmental 🌱🌎 motivations that shaped it. 💭✨  
 We walk through the **problem statement** ❓, our **AI-powered solution** 🤖💬, **key features** 🧩⚡, and the **impact we hope to make** 🚀💚.
 
-- 📊 [**Code**: Kaggle Notebook (Interactive Code)](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
-- 📖 [**Blog**: Watt-Seer Household Blog](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-household.html)
-- 🎬 [**Video**: Demo Walkthrough Video](https://youtu.be/Mrld6CWXUtg)
+- 📊 **Code**: [Kaggle Notebook (Interactive Code)](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
+- 📖 **Blog**: [Watt-Seer Household Blog](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-household.html)
+- 🎬 **Video**: [Demo Walkthrough Video](https://youtu.be/Mrld6CWXUtg)
 
 ### ☂️ Watt-Seer Capstone - GenAI 2025Q1
 Watt-Seer Household was proudly developed under the broader umbrella of the **Watt-Seer Capstone - GenAI 2025Q1** — a showcase of AI innovation and real-world impact 🚀
 
-- 🌍 [**Blog**: Watt-Seer Capstone Blog](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
-- 🧩 [**Repository**: Full Capstone GitHub Repository](https://github.com/suresh-srinivas/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1)
+- 🌍 **Blog**: [Watt-Seer Capstone Blog](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
+- 🧩 **Repository**: [Full Capstone GitHub Repository](https://github.com/suresh-srinivas/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1)
 
 ---
 

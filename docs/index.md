@@ -1,4 +1,4 @@
-# ⚡ Welcome to Watt-Seer Household
+  # ⚡ Welcome to Watt-Seer Household
 
 An AI-powered energy assistant that helps families understand and reduce energy usage. 🌱💡  
 Created during the GenAI Intensive Capstone 2025Q1.
@@ -7,10 +7,10 @@ Created during the GenAI Intensive Capstone 2025Q1.
 
 ## 🔗 Quick Access
 
-- 📝 [Watt-Seer Household Blog](watt-seer-household.md)
+- 📝 [Watt-Seer Household Blog](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-household.html)
 - 🎬 [Project Walkthrough Video](https://youtu.be/Mrld6CWXUtg)
 - 💻 [View Kaggle Notebook](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
-- 🧩 [Watt-Seer Capstone Overview](watt-seer-capstone-project.md)
+- 🧩 [Watt-Seer Capstone Overview](https://arushitariyal.github.io/Watt-Seer-Household/watt-seer-capstone-project.html)
 
 ---
 

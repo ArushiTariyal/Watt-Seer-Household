@@ -7,9 +7,10 @@ Created during the GenAI Intensive Capstone 2025Q1.
 
 ## 🔗 Quick Access
 
-- 📝 [Watt-Seer Household Blog [Markdown]](watt-seer-household.md)
+- 📝 [Watt-Seer Household Blog](watt-seer-household.md)
 - 🎬 [Project Walkthrough Video](https://youtu.be/Mrld6CWXUtg)
 - 💻 [View Kaggle Notebook](https://www.kaggle.com/code/arushitariyal/watt-seer-household)
+- 🧩 [Capstone Overview](watt-seer-capstone-project.md)
 
 ---
 

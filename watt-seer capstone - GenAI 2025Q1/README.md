@@ -2,7 +2,7 @@
 
 📁 This folder represents the umbrella project of the **Watt-Seer Capstone**, developed as part of the **GenAI Intensive Capstone 2025Q1** 🚀
 
-🧠 Our diverse team of 13 innovators — including AI developers 💻, storytellers 🎥, designers 🎨, and content creators 📝 — came together to apply **Generative AI** 🤖 in solving real-world energy challenges ⚡ through smart, sustainable solutions 🌱🌍
+🧠 Our diverse team of 13 innovators — including AI developers 💻, storytellers 🎥, designers 🎨, and content creators 📝 — united from different parts of the world to apply **Generative AI** 🤖 in solving real-world energy challenges ⚡ through smart, sustainable solutions 🌱🌍
 
 
 ---

@@ -1,4 +1,4 @@
-  # ⚡ Welcome to Watt-Seer Household
+# ⚡ Welcome to Watt-Seer Household
 
 An AI-powered energy assistant that helps families understand and reduce energy usage. 🌱💡  
 Created during the GenAI Intensive Capstone 2025Q1.

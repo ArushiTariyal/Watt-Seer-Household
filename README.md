@@ -53,6 +53,8 @@ We walk through the **problem statement** ❓, our **AI-powered solution** 🤖�
 ### ☂️ Watt-Seer Capstone - GenAI 2025Q1
 Watt-Seer Household was proudly developed under the broader umbrella of the **Watt-Seer Capstone - GenAI 2025Q1** — a showcase of AI innovation and real-world impact 🚀
 
+**Watt-Seer Capstone – GenAI Intensive 2025Q1** is a collaborative initiative where our 13-member team — representing multiple countries and diverse skill sets — came together to build AI-powered solutions for smarter, more sustainable energy usage 🌱⚡
+
 - 🌍 **Blog**: [Watt-Seer Capstone Blog](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/)
 - 🧩 **Repository**: [Full Capstone GitHub Repository](https://github.com/suresh-srinivas/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1)
 

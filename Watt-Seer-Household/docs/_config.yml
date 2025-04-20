@@ -3,3 +3,5 @@ title: Watt-Seer
 description: Gen AI Energy Capstone
 author: Arushi Tariyal
 baseurl: "/Watt-Seer-Household"
+sass:
+  load_paths: []

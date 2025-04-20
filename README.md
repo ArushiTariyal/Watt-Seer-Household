@@ -40,6 +40,21 @@ Check out our full walkthrough on YouTube! 🎬👇
 
 ---
 
+### 📝📚 Project Blog 💡🌿🌍
+
+Dive deeper into the story behind **Watt-Seer Household** 🏡🔌 and explore the technical ⚙️, creative 🎨, and environmental 🌱🌎 motivations that shaped it. 💭✨  
+We walk through the **problem statement** ❓, our **AI-powered solution** 🤖💬, **key features** 🧩⚡, and the **impact we hope to make** 🚀💚.
+
+👉 **Read the full blog here:**  
+[🌐 Watt-Seer Household – Project Blog](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/watt-seer-household.html) 📝📊📖
+
+This project was developed under the broader umbrella ☂️ of the **GenAI Intensive Capstone 2025Q1** 🧠💡 — a collection of groundbreaking AI initiatives 💥🧬 built by forward-thinking teams 👩‍💻👨‍💻.
+
+👉 **Explore all Capstone projects here:**  
+[🚀 GenAI Capstone 2025Q1 – Project Showcase](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/) 🌍📘🔍
+
+---
+
 ### 🌟 Let’s Build Smarter Homes, Together 💚
 *Smarter choices. Lower bills. Greener living. One home at a time.* 🌱🌞💡
 

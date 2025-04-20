@@ -50,8 +50,8 @@ We walk through the **problem statement** ❓, our **AI-powered solution** 🤖�
 
 This project was developed under the broader umbrella ☂️ of the **GenAI Intensive Capstone 2025Q1** 🧠💡 — a collection of groundbreaking AI initiatives 💥🧬 built by forward-thinking teams 👩‍💻👨‍💻.
 
-👉 **Explore all Capstone projects here:**  
-[🚀 GenAI Capstone 2025Q1 – Project Showcase](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/) 🌍📘🔍
+👉 **Explore all Watt-Seer Capstone projects here:**  
+[🚀 GenAI Capstone 2025Q1 – Watt-Seer Projects Showcase](https://suresh-srinivas.github.io/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/) 🌍📘🔍
 
 ---
 

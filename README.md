@@ -25,7 +25,7 @@ Check out our full walkthrough on YouTube! 🎬👇
 ---
 
 ### 💻 Built With:
-- 🧠 Gemini Pro API
+- 🧠 Gemini API
 - 📦 Pandas, NumPy, Matplotlib
 - 🧮 Scikit-learn, SciPy
 - 🧰 Python, Kaggle

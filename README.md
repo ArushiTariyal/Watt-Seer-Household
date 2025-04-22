@@ -1,4 +1,4 @@
-### ⚡️🌱 Watt-Seer Household – Your AI-Powered Energy Coach 💡🏡
+### ⚡️🌱 Watt-Seer Household – Your AI-Powered Energy Assistant 💡🏡
 
 Welcome to **Watt-Seer Household** 🔍✨ — a smart, GenAI-powered assistant 🤖 that empowers families 👨‍👩‍👧‍👦 to understand, monitor, and optimize ⚙️⚡ their home’s energy consumption 🏠📉 like never before! Developed with love 💜 by the **WattWise Innovators** 🧠🌟 as part of the **GenAI Intensive Capstone Project** 🎓🚀.
 

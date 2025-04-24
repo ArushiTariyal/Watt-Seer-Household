@@ -22,7 +22,7 @@
 
 | 🎯 **Watt-Seer Coach**      | 📊 **Watt-Seer Compare**     | 🏡 **Watt-Seer Household**     | 🔋 **Watt-Saver**             |
 |----------------------------|------------------------------|-------------------------------|-------------------------------|
-| Ashwini Apte               | Praveen                      | Arushi Tariyal                | Jim Kwik                      |
+| Ashwini Apte               | Praveen                      | Arushi Tariyal                | Jim Soloman                   |
 | Rao Parasa                 | Harshita Srinivas            | Eric H. Adjakossa             | Jonathan Garcia               |
 | Suresh Srinivas            | Naga Vishnu Kanth            | Lan H. Nguyen                 | Lamide K.                     |
 |                            |                              |                               | Saad Asghar                   |
